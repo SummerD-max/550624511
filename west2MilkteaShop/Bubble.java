@@ -17,4 +17,5 @@ public class Bubble extends Ingredient{
         String ans = "原料名字："+ name + " 原料生产日期：" + ddate + " 原料保质期：" + shelflife + " Days";
         return ans;
     }
+    system.out.print("HELLO");
 }
